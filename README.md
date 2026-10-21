@@ -24,3 +24,4 @@ Open `index.html` in a browser. An internet connection is needed for Google Font
 - The food and interior photos are illustrative stock images. Replace them with your own restaurant photos for a more accurate website.
 - The call link uses +91 96007 47282. Confirm the number before launch.
 - No online reservation form is included; the site does not claim to submit bookings.
+\n\n## Menu board update\n\nThe menu board has been added in English and Tamil. Sukka Biryani is listed at ₹190 as confirmed by the owner. Check the transcription against the physical board before publishing.\n
