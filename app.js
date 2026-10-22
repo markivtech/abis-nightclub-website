@@ -5,18 +5,18 @@ const translations = {
   en: {
     nav: { home: 'Home', menu: 'Our food', about: 'About', contact: 'Contact' },
     hero: {
-      eyebrow: 'A LOCAL FAVOURITE IN THOOTHUKUDI', titleLead: 'Good food.', titleAccent: 'Good moments.',
+      eyebrow: 'INDIAN RESTAURANT IN THOOTHUKUDI', titleLead: 'Good food.', titleAccent: 'Good moments.',
       tamilTitle: 'சுவையான உணவு. சிறந்த தருணங்கள்.',
       description: 'Enjoy satisfying Indian food at Abis Nightclub, serving customers in Thoothukudi.',
       dineIn: 'Dine-in', takeaway: 'Takeaway', indianFood: 'Indian restaurant', call: 'Call us',
       directions: 'Get directions', maps: 'Open in Google Maps', photoNote: "Food imagery is illustrative. Ask us about today's menu.", scroll: 'DISCOVER OUR FOOD'
     },
     menu: {
-      eyebrow: 'MADE FOR BIG APPETITES', title: 'A taste of the South',
-      description: "Explore some of the favourites customers mention. Please contact us to confirm today's availability and prices.",
+      eyebrow: 'FROM OUR KITCHEN', title: 'A taste of the South',
+      description: "A selection from our menu. Call us to confirm today's availability and prices.",
       tamilDescription: 'வாடிக்கையாளர்கள் விரும்பும் உணவு வகைகள். இன்றைய கிடைக்கும் உணவுகள் மற்றும் விலைகளுக்கு எங்களைத் தொடர்புகொள்ளவும்.',
-      parotta: 'Parotta varieties', parottaTa: 'பரோட்டா வகைகள்', mutton: 'Mutton chukka', muttonTa: 'ஆட்டிறைச்சி சுக்கா',
-      kadai: 'Kadai dishes', kadaiTa: 'கடாய் உணவு வகைகள்', more: 'More to explore',
+      parotta: 'Parotta varieties', parottaTa: 'பரோட்டா வகைகள்', mutton: 'Mutton chops', muttonTa: 'மட்டன் சாப்ஸ்',
+      kadai: 'Chicken & quail', kadaiTa: 'கோழி & காடை வகைகள்', more: 'More to explore',
       moreDescription: 'Our menu may vary. Call us to ask what is available today.',
       moreTa: 'உணவுப் பட்டியல் மாறுபடலாம். இன்றைய உணவு வகைகளை அறிய அழைக்கவும்.',
       ctaText: 'Looking for something specific?', ctaLink: 'Call to ask about the menu'
@@ -35,7 +35,7 @@ const translations = {
       phoneTitle: 'Phone', phoneNote: 'Tap the number to call', hoursTitle: 'Opening hours',
       hoursNote: 'Please check Google Maps or call us for current hours.', mapLabel: 'VISIT US', mapTitle: 'Open directions in Google Maps'
     },
-    footer: { tagline: 'Good food, right here in Thoothukudi.', note: 'Business details shown as supplied by the owner.', top: 'Back to top ↑' }
+    footer: { tagline: 'Good food, right here in Thoothukudi.', top: 'Back to top ↑' }
   },
   ta: {
     nav: { home: 'முகப்பு', menu: 'உணவு வகைகள்', about: 'எங்களைப் பற்றி', contact: 'தொடர்புக்கு' },
@@ -47,11 +47,11 @@ const translations = {
       directions: 'வழியைப் பெறுங்கள்', maps: 'Google Maps-இல் திறக்கவும்', photoNote: 'படங்கள் எடுத்துக்காட்டுக்காகப் பயன்படுத்தப்பட்டுள்ளன. இன்றைய உணவு வகைகளைக் கேளுங்கள்.', scroll: 'உணவு வகைகளைப் பாருங்கள்'
     },
     menu: {
-      eyebrow: 'உங்கள் பசியைத் தீர்க்க', title: 'தென்னிந்தியச் சுவை',
+      eyebrow: 'எங்கள் சமையலறையிலிருந்து', title: 'தென்னிந்தியச் சுவை',
       description: 'வாடிக்கையாளர்கள் குறிப்பிடும் சில உணவு வகைகளைப் பாருங்கள். இன்றைய கிடைக்கும் உணவுகள் மற்றும் விலைகளை உறுதிப்படுத்த எங்களைத் தொடர்புகொள்ளவும்.',
       tamilDescription: 'வாடிக்கையாளர்கள் விரும்பும் உணவு வகைகள். இன்றைய கிடைக்கும் உணவுகள் மற்றும் விலைகளுக்கு எங்களைத் தொடர்புகொள்ளவும்.',
-      parotta: 'பரோட்டா வகைகள்', parottaTa: 'பரோட்டா வகைகள்', mutton: 'மட்டன் சுக்கா', muttonTa: 'ஆட்டிறைச்சி சுக்கா',
-      kadai: 'கடாய் உணவு வகைகள்', kadaiTa: 'கடாய் உணவு வகைகள்', more: 'மேலும் பல உணவு வகைகள்',
+      parotta: 'பரோட்டா வகைகள்', parottaTa: 'பரோட்டா வகைகள்', mutton: 'மட்டன் சாப்ஸ்', muttonTa: 'மட்டன் சாப்ஸ்',
+      kadai: 'கோழி & காடை வகைகள்', kadaiTa: 'கோழி & காடை வகைகள்', more: 'மேலும் பல உணவு வகைகள்',
       moreDescription: 'உணவுப் பட்டியல் மாறுபடலாம். இன்று என்னென்ன உணவுகள் உள்ளன என்று அழைத்துக் கேளுங்கள்.',
       moreTa: 'உணவுப் பட்டியல் மாறுபடலாம். இன்றைய உணவு வகைகளை அறிய அழைக்கவும்.',
       ctaText: 'குறிப்பிட்ட உணவு வேண்டுமா?', ctaLink: 'உணவுப் பட்டியலைக் கேட்க அழைக்கவும்'
@@ -70,7 +70,7 @@ const translations = {
       phoneTitle: 'தொலைபேசி', phoneNote: 'அழைக்க எண்ணைத் தொடவும்', hoursTitle: 'திறந்திருக்கும் நேரம்',
       hoursNote: 'தற்போதைய நேரத்தை Google Maps-இல் பார்க்கவும் அல்லது எங்களை அழைக்கவும்.', mapLabel: 'எங்களைச் சந்திக்கவும்', mapTitle: 'Google Maps-இல் வழியைப் பெறுங்கள்'
     },
-    footer: { tagline: 'தூத்துக்குடியில் சுவையான உணவு.', note: 'வணிக விவரங்கள் உரிமையாளர் வழங்கிய தகவல்களின் அடிப்படையில் காட்டப்பட்டுள்ளன.', top: 'மேலே செல்ல ↑' }
+    footer: { tagline: 'தூத்துக்குடியில் சுவையான உணவு.', top: 'மேலே செல்ல ↑' }
   }
 };
 
