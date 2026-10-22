@@ -3,16 +3,16 @@
 A static, bilingual (English/Tamil) restaurant website built with HTML, CSS and JavaScript. Suitable for GitHub Pages.
 
 ## Files
-- `index.html` — page content and sections
-- `styles.css` — responsive layout and styling
-- `app.js` — English/Tamil translations and mobile navigation
+- `index.html` — page structure and content (linked to the files below)
+- `styles.css` — layout, colours, and responsive design
+- `app.js` — English/Tamil text (all translations are in one place) and mobile menu
 
 ## Preview locally
 Open `index.html` in a browser. An internet connection is needed for Google Fonts and the illustrative food photographs.
 
 ## Publish with GitHub Pages
 1. Create a GitHub repository, for example `abis-nightclub-website`.
-2. Upload `index.html`, `styles.css`, `app.js`, and `README.md` to the repository root.
+2. Upload `index.html`, `styles.css`, `app.js`, and `README.md` to the repository root (keep them all together).
 3. Open the repository's **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Select the `main` branch and `/ (root)`, then save.
